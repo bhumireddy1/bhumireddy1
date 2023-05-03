@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on valaxy Technologies<br>👯 I’m looking to collaborate on  Frontend Development or MERN Stack<br>🤝 I’m looking for help with  organization<br>🌱 I’m currently learning  React, Express, Node, MongoDB<br>💬 Ask me about  Frontend Development or MERN Stack <br>⚡ Fun fact  I'm in funny Guy
+🔭 I’m currently working on Remotely<br>👯 I’m looking to collaborate on  Frontend Development or MERN Stack<br>🤝 I’m looking for help with  organization<br>🌱 I’m currently learning  React, Express, Node, MongoDB<br>💬 Ask me about  Frontend Development or MERN Stack <br>⚡ Fun fact  I'm in funny Guy
 
 
 ## 🌐 Socials:
